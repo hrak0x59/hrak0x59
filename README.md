@@ -10,7 +10,7 @@
 
   <!-- links -->
 <div id="badges">
-  <a href="your-twitter-UR](https://twitter.com/HiroTechchi">
+  <a href="https://twitter.com/HiroTechchi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
