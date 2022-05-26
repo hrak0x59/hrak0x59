@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 <!-- gif -->
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy_s.gif?cid=ecf05e47r5d3l1ezqfpmoq7iak0z5zycsfpmvoo6ldzsk8xs&rid=giphy_s.gif&ct=s" style="width:10%;">
+  <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy_s.gif?cid=ecf05e47r5d3l1ezqfpmoq7iak0z5zycsfpmvoo6ldzsk8xs&rid=giphy_s.gif&ct=s" width="100">
  <div>
   <!-- links -->
 <div id="badges">
