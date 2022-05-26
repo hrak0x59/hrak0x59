@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy_s.gif?cid=ecf05e47r5d3l1ezqfpmoq7iak0z5zycsfpmvoo6ldzsk8xs&rid=giphy_s.gif&ct=s" style="width:100%;">
+ <div>
 
 <!--
 **HiroCodeTrip/HiroCodeTrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
