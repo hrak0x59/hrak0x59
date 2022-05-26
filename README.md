@@ -1,31 +1,36 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-<!-- gif -->
+<!-- h2 -->
+<u>
+  <div align="center">
+    <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h2>
+  </div>
+</u>
+<!-- header gif -->
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy_s.gif?cid=ecf05e47r5d3l1ezqfpmoq7iak0z5zycsfpmvoo6ldzsk8xs&rid=giphy_s.gif&ct=s" width="100">
- <div>
+
   <!-- links -->
 <div id="badges">
   <a href="your-twitter-UR](https://twitter.com/HiroTechchi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<!--
-**HiroCodeTrip/HiroCodeTrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+ <!-- self-intro -->
+> 🔭 Name: Hiroaki Yoshida
+>> 🌱 language:Japanese -native /Mandarin -fluent (Sichuanese -fluent) /English -conversational
+  
+> ⚡ Current Education - Toyo University, Tokyo, Japan
+>> Department of Information Networking for Innovation and Design
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+> 🤔 I’m currently learning C/C++, swift 
+>> -> beside #not related with programming : accounting, marketing, design(especially cognitive science), and so on...
+  
+>> 📫 How to reach me: E-mail -> jitianhongming01@gmail.com
+  
+<!-- footer gif -->
+<div align="center">
+  <img src="https://media3.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47k7h1bdb9j6ooj5virkaohwino51um3etckhrzjtl&rid=giphy.gif&ct=g" style="width:100%;">
+ <div>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
