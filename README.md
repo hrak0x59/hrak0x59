@@ -25,7 +25,8 @@
 > ⚡ Current Education - Toyo University, Tokyo, Japan
 >> Department of Information Networking for Innovation and Design
 
-> 🤔 I’m currently learning C/C++, swift 
+> 🤔 Using Javascript/Typescript for a while....
+<!-- I’m currently learning C/C++, swift  -->
 >> -> beside #not related with programming : accounting, marketing, design(especially cognitive science), and so on...
   
 >> 📫 How to reach me: E-mail -> jitianhongming01@gmail.com
