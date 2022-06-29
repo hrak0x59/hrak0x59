@@ -10,9 +10,15 @@
 
   <!-- links -->
 <div id="badges">
+    <!-- Twitter -->
   <a href="https://twitter.com/hrak0x59">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <!-- Qiita -->
+  <a href="https://twitter.com/hrak0x59">
+    <img src="https://img.shields.io/badge/-Qiita-green?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita Badge"/>
+  </a>
+  
   <p>
     <img src="https://komarev.com/ghpvc/?username=hrak0x59&style=flat-square&color=blue" alt="view counter">
   </p>
