@@ -18,7 +18,12 @@
   <a href="https://qiita.com/hrak0x59">
     <img src="https://img.shields.io/badge/-Qiita-green?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita Badge"/>
   </a>
+<!-- Zenn -->
+   <a href="https://zenn.dev/hrak0x59">
+    <img src="https://img.shields.io/badge/-Zenn-blueviolet?style=for-the-badge&logo=Zenn" alt="Qiita Badge"/>
+  </a>
   
+<!--  View Counter -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=hrak0x59&style=flat-square&color=blue" alt="view counter">
   </p>
