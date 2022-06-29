@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <!-- Qiita -->
-  <a href="https://twitter.com/hrak0x59">
+  <a href="https://qiita.com/hrak0x59">
     <img src="https://img.shields.io/badge/-Qiita-green?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita Badge"/>
   </a>
   
