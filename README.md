@@ -31,7 +31,7 @@
   
  <!-- self-intro -->
 > 🔭 Name: Hiroaki Yoshida
->> 🌱 language:Japanese -native /Mandarin -fluent (Sichuanese -fluent) /English -conversational
+>> 🌱 language:Japanese -Native /Mandarin -Native (Sichuanese -Native) /English -Conversational
   
 > ⚡ Current Education - Toyo University, Tokyo, Japan
 >> Department of Information Networking for Innovation and Design
