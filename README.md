@@ -36,7 +36,7 @@
 > ⚡ Current Education - Toyo University, Tokyo, Japan
 >> Department of Information Networking for Innovation and Design
 
-> 🤔 Currently, learning WebDevs.
+> 🤔 Currently, learning Frontend...
 <!-- I’m currently learning C/C++, swift  -->
 >> -> beside #not related with programming : accounting, marketing, design(especially cognitive science), and so on...
   
