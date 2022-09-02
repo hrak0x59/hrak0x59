@@ -45,7 +45,7 @@ Current Education - Toyo University, Tokyo, Japan
 <!-- I’m currently learning C/C++, swift  -->
 > accounting, marketing, design(especially cognitive science), and so on...
   
-<h4> 📫 How to reach me: <a href="jitianhongming01@gmail.com">jitianhongming01@gmail.com</h4>
+<h4> 📫 How to reach me: <a href="mailto:jitianhongming01@gmail.com">jitianhongming01@gmail.com</h4>
   
 <!-- footer gif -->
 <div align="center">
