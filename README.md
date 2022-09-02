@@ -28,7 +28,7 @@
     <img src="https://komarev.com/ghpvc/?username=hrak0x59&style=flat-square&color=blue" alt="view counter">
   </p>
 </div>
-  
+</div> 
  <!-- self-intro -->
 > 🔭 Name: Hiroaki Yoshida
 >> 🌱 language:Japanese -Native /Mandarin -Native (Sichuanese -Native) /English -Conversational
