@@ -43,7 +43,7 @@ Current Education - Toyo University, Tokyo, Japan
 <h3> 🌱 Currently, learning Frontend... </h3>
 
 <!-- I’m currently learning C/C++, swift  -->
-> accounting, marketing, design(especially cognitive science), and so on...
+> accounting, marketing, design(especially cognitive science)...
   
 <h4> 📫 How to reach me: <a href="mailto:jitianhongming01@gmail.com">jitianhongming01@gmail.com</h4>
   
