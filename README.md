@@ -29,6 +29,7 @@
   </p>
 </div>
 </div> 
+
  <!-- self-intro -->
 > 🔭 Name: Hiroaki Yoshida
 >> 🌱 language:Japanese -Native /Mandarin -Native (Sichuanese -Native) /English -Conversational
