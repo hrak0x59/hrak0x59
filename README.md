@@ -1,7 +1,7 @@
 <!-- h2 -->
 <u>
   <div align="center">
-    <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </h2>
+    <h2>Hi there 🔭 </h2>
   </div>
 </u>
 <!-- header gif -->
@@ -31,17 +31,21 @@
 </div> 
 
  <!-- self-intro -->
-> 🔭 Name: Hiroaki Yoshida
->> 🌱 language:Japanese -Native /Mandarin -Native (Sichuanese -Native) /English -Conversational
+<h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
+Name: Hiroaki Yoshida </h3>
+
+> language:Japanese -Native /Mandarin -Native (Sichuanese -Native) /English -Conversational
   
-> ⚡ Current Education - Toyo University, Tokyo, Japan
+Current Education - Toyo University, Tokyo, Japan
 >> Department of Information Networking for Innovation and Design
 
-> 🤔 Currently, learning Frontend...
+<h3> 🌱 Currently, learning Frontend... </h3>
+
 <!-- I’m currently learning C/C++, swift  -->
->> -> beside #not related with programming : accounting, marketing, design(especially cognitive science), and so on...
+> accounting, marketing, design(especially cognitive science), and so on...
   
->> 📫 How to reach me: E-mail -> jitianhongming01@gmail.com
+<h4> 📫 How to reach me: E-mail -> jitianhongming01@gmail.com </h4>
   
 <!-- footer gif -->
 <div align="center">
