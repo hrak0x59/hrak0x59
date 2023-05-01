@@ -35,15 +35,19 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
 Name: Hiroaki Yoshida </h3>
 
-> language:Japanese -Native /Mandarin -Native (Sichuanese -Native) /English -Conversational
+<h3> 🗣️　Language skills </h3>
+
+    Japanese: Native 
+    Mandarin: Native (Sichuanese: Native) 
+    English: Conversational
   
 Current Education - Toyo University, Tokyo, Japan
 >> Department of Information Networking for Innovation and Design
 
-<h3> 🌱 Currently, learning Frontend... </h3>
+<h3> 🚀　Currently, my main areas of interest are... </h3>
 
 <!-- I’m currently learning C/C++, swift  -->
-> accounting, marketing, design(especially cognitive science)...
+      AI & MR
   
 <h4> 📫 How to reach me: <a href="mailto:jitianhongming01@gmail.com">jitianhongming01@gmail.com</h4>
   
