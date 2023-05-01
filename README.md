@@ -40,7 +40,7 @@
 - English: Conversational
 ```
 
-<h3> 🐍 Programming </h3>
+<h3> 🐍 Programming Skills </h3>
 
 ```Skills:
 - Python        [██████░░░░░░░░░░░░] 40%
@@ -52,7 +52,6 @@
 - x86 Assembly  [██░░░░░░░░░░░░░░░░] 5%
 - Verilog       [█░░░░░░░░░░░░░░░░░] 2%
 ```
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=hrak0x59/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=hrak0x59/badges)
 
 <h3> 🚀 Currently, my main areas of interest are... </h3>
 
