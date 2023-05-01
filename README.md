@@ -34,9 +34,25 @@
 
 <h3> 🗣️ Language Skills </h3>
 
-      Japanese: Native 
-      Mandarin: Native (Sichuanese: Native) 
-      English: Conversational
+```
+- Japanese: Native 
+- Mandarin: Native (Sichuanese: Native) 
+- English: Conversational
+```
+
+<h3> 🐍 Programming </h3>
+
+```Skills:
+- Python        [██████░░░░░░░░░░░░] 40%
+- JavaScript    [█████░░░░░░░░░░░░░] 30%
+- C             [████░░░░░░░░░░░░░░] 15%
+- Go            [████░░░░░░░░░░░░░░] 15%
+- TypeScript    [██░░░░░░░░░░░░░░░░] 10%
+- OCaml         [██░░░░░░░░░░░░░░░░] 10%
+- x86 Assembly  [██░░░░░░░░░░░░░░░░] 5%
+- Verilog       [█░░░░░░░░░░░░░░░░░] 2%
+```
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=hrak0x59/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=hrak0x59/badges)
 
 <h3> 🚀 Currently, my main areas of interest are... </h3>
 
