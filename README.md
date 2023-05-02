@@ -53,6 +53,12 @@
 - Verilog       [█░░░░░░░░░░░░░░░░░] 2%
 ```
 
+<picture>
+  <img src="/metrics.plugin.isocalendar.svg" alt="Metrics">
+</picture>
+
+
+
 <h3> 🚀 Currently, my main areas of interest are... </h3>
 
       Artificial Intelligence (AI) & Mixed Reality (MR)
