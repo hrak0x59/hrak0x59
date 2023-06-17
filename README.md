@@ -5,21 +5,24 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy_s.gif?cid=ecf05e47r5d3l1ezqfpmoq7iak0z5zycsfpmvoo6ldzsk8xs&rid=giphy_s.gif&ct=s" width="100">
 
-  <!-- Links -->
-  <div id="badges">
-    <!-- Twitter -->
-    <a href="https://twitter.com/hrak0x59">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <!-- Qiita -->
-    <a href="https://qiita.com/hrak0x59">
-      <img src="https://img.shields.io/badge/-Qiita-green?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita Badge"/>
-    </a>
-    <!-- Zenn -->
-    <a href="https://zenn.dev/hrak0x59">
-      <img src="https://img.shields.io/badge/-Zenn-blueviolet?style=for-the-badge&logo=Zenn" alt="Zenn Badge"/>
-    </a>
-  </div>
+<!-- Links -->
+<div id="badges">
+  <!-- Twitter -->
+  <a href="https://twitter.com/hrak0x59">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <!-- Qiita -->
+  <a href="https://qiita.com/hrak0x59">
+    <img src="https://img.shields.io/badge/-Qiita-green?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita Badge"/>
+  </a>
+  <!-- Zenn -->
+  <a href="https://zenn.dev/hrak0x59">
+    <img src="https://img.shields.io/badge/-Zenn-blueviolet?style=for-the-badge&logo=Zenn" alt="Zenn Badge"/>
+  </a>
+  <!-- Note -->
+  <a href="https://note.com/hrak0x59">
+    <img src="https://img.shields.io/badge/-Note-lightgray?style=for-the-badge&logo=note&logoColor=white" alt="Note Badge"/>
+  </a>
 </div>
 
 <!-- View Counter -->
