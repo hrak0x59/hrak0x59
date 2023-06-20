@@ -37,10 +37,10 @@
 
 <h3> 🗣️ Language Skills </h3>
 
-```
-- Japanese: Native 
-- Mandarin: Native (Sichuanese: Native) 
+```Language:
+- Japanese: Native
 - English: Conversational
+- Mandarin: Native (Sichuanese: Native)
 ```
 
 <h3> 🐍 Programming Skills </h3>
