@@ -27,7 +27,7 @@
   <a href="https://stackoverflow.com/users/22759667/hiro">
    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
   </a>
-    <a href="https://stackoverflow.com/users/22759667/hiro">
+    <a href="https://www.reddit.com/user/hrak0x59">
    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
   </a>
 </div>
