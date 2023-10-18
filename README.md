@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy_s.gif?cid=ecf05e47r5d3l1ezqfpmoq7iak0z5zycsfpmvoo6ldzsk8xs&rid=giphy_s.gif&ct=s" width="100">
 
+<!-- https://ileriayo.github.io/markdown-badges/ -->
 <!-- Links -->
 <div id="badges">
   <!-- Twitter -->
@@ -23,7 +24,14 @@
   <a href="https://note.com/hrak0x59">
     <img src="https://img.shields.io/badge/-Note-lightgray?style=for-the-badge&logo=note&logoColor=white" alt="Note Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/22759667/hiro">
+   <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
+  </a>
+    <a href="https://stackoverflow.com/users/22759667/hiro">
+   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
+  </a>
 </div>
+
 
 <!-- View Counter -->
 <div align="center">
