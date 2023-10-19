@@ -28,6 +28,10 @@
     <a href="https://www.reddit.com/user/hrak0x59">
    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
   </a>
+<!-- Quora -->
+   <a href="https://jp.quora.com/profile/%E5%90%89%E7%94%B0-%E9%B4%BB%E6%98%8E">
+   <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
+  </a>
 </div>
 
 
