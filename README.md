@@ -84,6 +84,3 @@ THIS IS NOW NON-ACTIVATED
 <div align="center">
   <img src="https://media3.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47k7h1bdb9j6ooj5virkaohwino51um3etckhrzjtl&rid=giphy.gif&ct=g" style="width:100%;">
 </div>
-
-
-test
