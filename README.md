@@ -32,6 +32,13 @@
    <a href="https://jp.quora.com/profile/%E5%90%89%E7%94%B0-%E9%B4%BB%E6%98%8E">
    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
   </a>
+<!-- Medium -->
+  <a href="https://medium.com/@jitianhongming01">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"/>
+
+<!-- scrapbox --> 
+ <!-- <a href="https://scrapbox.io/hrak0x59/">
+  <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/> -->
 </div>
 
 
