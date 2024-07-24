@@ -21,23 +21,23 @@
     <img src="https://img.shields.io/badge/-Zenn-blueviolet?style=for-the-badge&logo=Zenn" alt="Zenn Badge"/>
   </a>
 <!-- Stackoverflow -->
-  <a href="https://stackoverflow.com/users/22759667/hiro">
+<!--   <a href="https://stackoverflow.com/users/22759667/hiro">
    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
-  </a>
+  </a> -->
 <!--   Reddit -->
-    <a href="https://www.reddit.com/user/hrak0x59">
+<!--     <a href="https://www.reddit.com/user/hrak0x59">
    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
-  </a>
+  </a> -->
 <!-- Quora -->
-   <a href="https://jp.quora.com/profile/%E5%90%89%E7%94%B0-%E9%B4%BB%E6%98%8E">
+<!--    <a href="https://jp.quora.com/profile/%E5%90%89%E7%94%B0-%E9%B4%BB%E6%98%8E">
    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
-  </a>
+  </a> -->
 <!-- Medium -->
-  <a href="https://medium.com/@jitianhongming01">
+<!--   <a href="https://medium.com/@jitianhongming01">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"/>
-
+ -->
 <!-- scrapbox --> 
- <!-- <a href="https://scrapbox.io/hrak0x59/">
+<!--  <a href="https://scrapbox.io/hrak0x59/">
   <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/> -->
 </div>
 
@@ -62,7 +62,7 @@
 ```
 
 <h3> 🐍 Programming Skills </h3>
-THIS IS NOW NON-ACTIVATED
+This is no longer maintained.
 
 ```Skills:
 - Python        [██████░░░░░░░░░░░░] 40%
@@ -83,7 +83,7 @@ THIS IS NOW NON-ACTIVATED
 
 <h3> 🚀 Currently, my main areas of interest are... </h3>
 
-      Artificial Intelligence (AI) & Mixed Reality (MR)
+      Web Development & Artificial Intelligence (AI)
   
 <h4> 📫 How to reach me: <a href="mailto:jitianhongming01@gmail.com">jitianhongming01@gmail.com</a></h4>
 
